@@ -1,6 +1,6 @@
 package net.coronam;
 
-import net.coronam.y2023.Day05;
+import net.coronam.y2023.day05.Day05;
 
 import static net.coronam.Utils.println;
 import static net.coronam.Utils.readInput;

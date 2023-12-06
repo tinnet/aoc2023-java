@@ -1,4 +1,4 @@
-package net.coronam.y2023.day5;
+package net.coronam.y2023.day05;
 
 import java.util.List;
 import java.util.SequencedCollection;

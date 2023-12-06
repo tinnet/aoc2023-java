@@ -1,4 +1,4 @@
-package net.coronam.y2023.day5;
+package net.coronam.y2023.day05;
 
 import com.google.common.collect.BiMap;
 import com.google.common.collect.HashBiMap;

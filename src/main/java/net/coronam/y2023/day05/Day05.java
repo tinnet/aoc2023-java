@@ -1,8 +1,6 @@
-package net.coronam.y2023;
+package net.coronam.y2023.day05;
 
 import net.coronam.Solvable;
-import net.coronam.y2023.day5.Almanac;
-import net.coronam.y2023.day5.Resources;
 
 import java.util.List;
 
