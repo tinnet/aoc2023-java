@@ -5,6 +5,7 @@ build/
 !**/src/test/**/build/
 
 **/Day*.txt
+**/day*.txt
 
 # ignore .txt files in all folders
 
