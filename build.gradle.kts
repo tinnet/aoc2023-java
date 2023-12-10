@@ -14,6 +14,7 @@ dependencies {
     implementation("com.google.guava:guava:32.1.3-jre")
     implementation("org.apache.commons:commons-lang3:3.14.0")
     implementation("org.apache.commons:commons-collections4:4.4")
+    implementation("one.util:streamex:0.8.2")
     
     testImplementation(platform("org.junit:junit-bom:5.9.1"))
     testImplementation("org.junit.jupiter:junit-jupiter")
